@@ -1,0 +1,1377 @@
+file_name      ,count,class_num,class_alpha
+patch/1_1.jpg  ,251  ,12       ,M
+patch/1_2.jpg  ,209  ,11       ,L
+patch/1_3.jpg  ,229  ,11       ,L
+patch/1_4.jpg  ,233  ,11       ,L
+patch/1_5.jpg  ,267  ,12       ,M
+patch/1_6.jpg  ,305  ,13       ,N
+patch/1_7.jpg  ,223  ,11       ,L
+patch/1_8.jpg  ,185  ,10       ,K
+patch/1_9.jpg  ,166  ,10       ,K
+patch/1_10.jpg ,146  ,9        ,J
+patch/1_11.jpg ,203  ,11       ,L
+patch/1_12.jpg ,180  ,10       ,K
+patch/1_13.jpg ,163  ,10       ,K
+patch/1_14.jpg ,106  ,8        ,I
+patch/1_15.jpg ,102  ,8        ,I
+patch/1_16.jpg ,132  ,9        ,J
+patch/1_17.jpg ,135  ,9        ,J
+patch/1_18.jpg ,138  ,9        ,J
+patch/1_19.jpg ,128  ,8        ,I
+patch/1_20.jpg ,125  ,8        ,I
+patch/1_21.jpg ,99   ,7        ,H
+patch/1_22.jpg ,78   ,6        ,G
+patch/1_23.jpg ,82   ,7        ,H
+patch/1_24.jpg ,89   ,7        ,H
+patch/1_25.jpg ,89   ,7        ,H
+patch/1_26.jpg ,84   ,7        ,H
+patch/1_27.jpg ,76   ,6        ,G
+patch/1_28.jpg ,73   ,6        ,G
+patch/1_29.jpg ,57   ,5        ,F
+patch/1_30.jpg ,57   ,5        ,F
+patch/1_31.jpg ,57   ,5        ,F
+patch/1_32.jpg ,57   ,5        ,F
+patch/1_33.jpg ,41   ,4        ,E
+patch/1_34.jpg ,32   ,3        ,D
+patch/1_35.jpg ,36   ,3        ,D
+patch/2_1.jpg  ,80   ,7        ,H
+patch/2_2.jpg  ,107  ,8        ,I
+patch/2_3.jpg  ,111  ,8        ,I
+patch/2_4.jpg  ,132  ,9        ,J
+patch/2_5.jpg  ,129  ,8        ,I
+patch/2_6.jpg  ,112  ,8        ,I
+patch/2_7.jpg  ,86   ,7        ,H
+patch/2_8.jpg  ,96   ,7        ,H
+patch/2_9.jpg  ,44   ,4        ,E
+patch/2_10.jpg ,51   ,5        ,F
+patch/2_11.jpg ,60   ,5        ,F
+patch/2_12.jpg ,66   ,6        ,G
+patch/2_13.jpg ,92   ,7        ,H
+patch/2_14.jpg ,127  ,8        ,I
+patch/2_15.jpg ,116  ,8        ,I
+patch/2_16.jpg ,106  ,8        ,I
+patch/2_17.jpg ,21   ,2        ,C
+patch/2_18.jpg ,26   ,3        ,D
+patch/2_19.jpg ,22   ,2        ,C
+patch/2_20.jpg ,33   ,3        ,D
+patch/2_21.jpg ,37   ,4        ,E
+patch/2_22.jpg ,53   ,5        ,F
+patch/2_23.jpg ,58   ,5        ,F
+patch/2_24.jpg ,30   ,3        ,D
+patch/2_25.jpg ,2    ,1        ,B
+patch/2_26.jpg ,4    ,1        ,B
+patch/2_27.jpg ,10   ,2        ,C
+patch/2_28.jpg ,11   ,2        ,C
+patch/2_29.jpg ,12   ,2        ,C
+patch/2_30.jpg ,17   ,2        ,C
+patch/2_31.jpg ,28   ,3        ,D
+patch/2_32.jpg ,20   ,2        ,C
+patch/2_33.jpg ,2    ,1        ,B
+patch/2_34.jpg ,0    ,0        ,A
+patch/2_35.jpg ,1    ,1        ,B
+patch/2_36.jpg ,15   ,2        ,C
+patch/2_37.jpg ,6    ,1        ,B
+patch/2_38.jpg ,3    ,1        ,B
+patch/2_39.jpg ,7    ,1        ,B
+patch/2_40.jpg ,7    ,1        ,B
+patch/3_1.jpg  ,65   ,6        ,G
+patch/3_2.jpg  ,66   ,6        ,G
+patch/3_3.jpg  ,73   ,6        ,G
+patch/3_4.jpg  ,72   ,6        ,G
+patch/3_5.jpg  ,68   ,6        ,G
+patch/3_6.jpg  ,60   ,5        ,F
+patch/3_7.jpg  ,72   ,6        ,G
+patch/3_8.jpg  ,69   ,6        ,G
+patch/3_9.jpg  ,74   ,6        ,G
+patch/3_10.jpg ,63   ,6        ,G
+patch/3_11.jpg ,66   ,6        ,G
+patch/3_12.jpg ,73   ,6        ,G
+patch/3_13.jpg ,73   ,6        ,G
+patch/3_14.jpg ,69   ,6        ,G
+patch/3_15.jpg ,55   ,5        ,F
+patch/3_16.jpg ,65   ,6        ,G
+patch/3_17.jpg ,65   ,6        ,G
+patch/3_18.jpg ,54   ,5        ,F
+patch/3_19.jpg ,62   ,5        ,F
+patch/3_20.jpg ,52   ,5        ,F
+patch/3_21.jpg ,63   ,6        ,G
+patch/3_22.jpg ,71   ,6        ,G
+patch/3_23.jpg ,53   ,5        ,F
+patch/3_24.jpg ,57   ,5        ,F
+patch/3_25.jpg ,58   ,5        ,F
+patch/3_26.jpg ,63   ,6        ,G
+patch/3_27.jpg ,62   ,5        ,F
+patch/3_28.jpg ,57   ,5        ,F
+patch/3_29.jpg ,56   ,5        ,F
+patch/3_30.jpg ,47   ,4        ,E
+patch/3_31.jpg ,46   ,4        ,E
+patch/3_32.jpg ,52   ,5        ,F
+patch/3_33.jpg ,45   ,4        ,E
+patch/3_34.jpg ,47   ,4        ,E
+patch/3_35.jpg ,46   ,4        ,E
+patch/3_36.jpg ,45   ,4        ,E
+patch/3_37.jpg ,47   ,4        ,E
+patch/3_38.jpg ,47   ,4        ,E
+patch/3_39.jpg ,45   ,4        ,E
+patch/3_40.jpg ,41   ,4        ,E
+patch/4_1.jpg  ,0    ,0        ,A
+patch/4_2.jpg  ,0    ,0        ,A
+patch/4_3.jpg  ,0    ,0        ,A
+patch/4_4.jpg  ,2    ,1        ,B
+patch/4_5.jpg  ,0    ,0        ,A
+patch/4_6.jpg  ,0    ,0        ,A
+patch/4_7.jpg  ,0    ,0        ,A
+patch/4_8.jpg  ,0    ,0        ,A
+patch/4_9.jpg  ,2    ,1        ,B
+patch/4_10.jpg ,4    ,1        ,B
+patch/4_11.jpg ,2    ,1        ,B
+patch/4_12.jpg ,4    ,1        ,B
+patch/4_13.jpg ,3    ,1        ,B
+patch/4_14.jpg ,3    ,1        ,B
+patch/4_15.jpg ,5    ,1        ,B
+patch/4_16.jpg ,4    ,1        ,B
+patch/4_17.jpg ,3    ,1        ,B
+patch/4_18.jpg ,4    ,1        ,B
+patch/4_19.jpg ,2    ,1        ,B
+patch/4_20.jpg ,2    ,1        ,B
+patch/4_21.jpg ,4    ,1        ,B
+patch/4_22.jpg ,3    ,1        ,B
+patch/4_23.jpg ,5    ,1        ,B
+patch/4_24.jpg ,3    ,1        ,B
+patch/4_25.jpg ,2    ,1        ,B
+patch/4_26.jpg ,3    ,1        ,B
+patch/4_27.jpg ,3    ,1        ,B
+patch/4_28.jpg ,2    ,1        ,B
+patch/4_29.jpg ,3    ,1        ,B
+patch/4_30.jpg ,2    ,1        ,B
+patch/4_31.jpg ,6    ,1        ,B
+patch/4_32.jpg ,3    ,1        ,B
+patch/4_33.jpg ,0    ,0        ,A
+patch/4_34.jpg ,2    ,1        ,B
+patch/4_35.jpg ,1    ,1        ,B
+patch/4_36.jpg ,3    ,1        ,B
+patch/4_37.jpg ,2    ,1        ,B
+patch/4_38.jpg ,6    ,1        ,B
+patch/4_39.jpg ,2    ,1        ,B
+patch/4_40.jpg ,1    ,1        ,B
+patch/6_1.jpg  ,50   ,5        ,F
+patch/6_2.jpg  ,41   ,4        ,E
+patch/6_3.jpg  ,8    ,1        ,B
+patch/6_4.jpg  ,0    ,0        ,A
+patch/6_5.jpg  ,0    ,0        ,A
+patch/6_6.jpg  ,0    ,0        ,A
+patch/6_7.jpg  ,0    ,0        ,A
+patch/6_8.jpg  ,0    ,0        ,A
+patch/6_9.jpg  ,61   ,5        ,F
+patch/6_10.jpg ,111  ,8        ,I
+patch/6_11.jpg ,155  ,9        ,J
+patch/6_12.jpg ,144  ,9        ,J
+patch/6_13.jpg ,144  ,9        ,J
+patch/6_14.jpg ,122  ,8        ,I
+patch/6_15.jpg ,93   ,7        ,H
+patch/6_16.jpg ,39   ,4        ,E
+patch/6_17.jpg ,138  ,9        ,J
+patch/6_18.jpg ,187  ,10       ,K
+patch/6_19.jpg ,136  ,9        ,J
+patch/6_20.jpg ,145  ,9        ,J
+patch/6_21.jpg ,143  ,9        ,J
+patch/6_22.jpg ,158  ,9        ,J
+patch/6_23.jpg ,131  ,9        ,J
+patch/6_24.jpg ,117  ,8        ,I
+patch/6_25.jpg ,29   ,3        ,D
+patch/6_26.jpg ,16   ,2        ,C
+patch/6_27.jpg ,55   ,5        ,F
+patch/6_28.jpg ,46   ,4        ,E
+patch/6_29.jpg ,73   ,6        ,G
+patch/6_30.jpg ,75   ,6        ,G
+patch/6_31.jpg ,77   ,6        ,G
+patch/6_32.jpg ,37   ,4        ,E
+patch/6_33.jpg ,1    ,1        ,B
+patch/6_34.jpg ,1    ,1        ,B
+patch/6_35.jpg ,1    ,1        ,B
+patch/6_36.jpg ,3    ,1        ,B
+patch/6_37.jpg ,3    ,1        ,B
+patch/6_38.jpg ,3    ,1        ,B
+patch/6_39.jpg ,4    ,1        ,B
+patch/6_40.jpg ,0    ,0        ,A
+patch/6_41.jpg ,0    ,0        ,A
+patch/6_42.jpg ,1    ,1        ,B
+patch/6_43.jpg ,0    ,0        ,A
+patch/6_44.jpg ,0    ,0        ,A
+patch/6_45.jpg ,1    ,1        ,B
+patch/6_46.jpg ,0    ,0        ,A
+patch/6_47.jpg ,0    ,0        ,A
+patch/6_48.jpg ,0    ,0        ,A
+patch/7_1.jpg  ,87   ,7        ,H
+patch/7_2.jpg  ,96   ,7        ,H
+patch/7_3.jpg  ,110  ,8        ,I
+patch/7_4.jpg  ,87   ,7        ,H
+patch/7_5.jpg  ,48   ,4        ,E
+patch/7_6.jpg  ,49   ,4        ,E
+patch/7_7.jpg  ,46   ,4        ,E
+patch/7_8.jpg  ,45   ,4        ,E
+patch/7_9.jpg  ,14   ,2        ,C
+patch/7_10.jpg ,17   ,2        ,C
+patch/7_11.jpg ,24   ,3        ,D
+patch/7_12.jpg ,25   ,3        ,D
+patch/8_1.jpg  ,0    ,0        ,A
+patch/8_2.jpg  ,0    ,0        ,A
+patch/8_3.jpg  ,0    ,0        ,A
+patch/8_4.jpg  ,0    ,0        ,A
+patch/8_5.jpg  ,0    ,0        ,A
+patch/8_6.jpg  ,0    ,0        ,A
+patch/8_7.jpg  ,11   ,2        ,C
+patch/8_8.jpg  ,0    ,0        ,A
+patch/8_9.jpg  ,0    ,0        ,A
+patch/8_10.jpg ,0    ,0        ,A
+patch/8_11.jpg ,0    ,0        ,A
+patch/8_12.jpg ,0    ,0        ,A
+patch/8_13.jpg ,2    ,1        ,B
+patch/8_14.jpg ,9    ,1        ,B
+patch/8_15.jpg ,43   ,4        ,E
+patch/8_16.jpg ,27   ,3        ,D
+patch/8_17.jpg ,0    ,0        ,A
+patch/8_18.jpg ,2    ,1        ,B
+patch/8_19.jpg ,3    ,1        ,B
+patch/8_20.jpg ,34   ,3        ,D
+patch/8_21.jpg ,30   ,3        ,D
+patch/8_22.jpg ,50   ,5        ,F
+patch/8_23.jpg ,37   ,4        ,E
+patch/8_24.jpg ,31   ,3        ,D
+patch/8_25.jpg ,3    ,1        ,B
+patch/8_26.jpg ,27   ,3        ,D
+patch/8_27.jpg ,25   ,3        ,D
+patch/8_28.jpg ,66   ,6        ,G
+patch/8_29.jpg ,47   ,4        ,E
+patch/8_30.jpg ,25   ,3        ,D
+patch/8_31.jpg ,35   ,3        ,D
+patch/8_32.jpg ,24   ,3        ,D
+patch/8_33.jpg ,41   ,4        ,E
+patch/8_34.jpg ,53   ,5        ,F
+patch/8_35.jpg ,50   ,5        ,F
+patch/8_36.jpg ,53   ,5        ,F
+patch/8_37.jpg ,51   ,5        ,F
+patch/8_38.jpg ,36   ,3        ,D
+patch/8_39.jpg ,10   ,2        ,C
+patch/8_40.jpg ,7    ,1        ,B
+patch/8_41.jpg ,37   ,4        ,E
+patch/8_42.jpg ,52   ,5        ,F
+patch/8_43.jpg ,43   ,4        ,E
+patch/8_44.jpg ,35   ,3        ,D
+patch/8_45.jpg ,27   ,3        ,D
+patch/8_46.jpg ,18   ,2        ,C
+patch/8_47.jpg ,2    ,1        ,B
+patch/8_48.jpg ,0    ,0        ,A
+patch/9_1.jpg  ,81   ,7        ,H
+patch/9_2.jpg  ,52   ,5        ,F
+patch/9_3.jpg  ,5    ,1        ,B
+patch/9_4.jpg  ,0    ,0        ,A
+patch/9_5.jpg  ,0    ,0        ,A
+patch/9_6.jpg  ,23   ,3        ,D
+patch/9_7.jpg  ,51   ,5        ,F
+patch/9_8.jpg  ,63   ,6        ,G
+patch/9_9.jpg  ,104  ,8        ,I
+patch/9_10.jpg ,144  ,9        ,J
+patch/9_11.jpg ,206  ,11       ,L
+patch/9_12.jpg ,205  ,11       ,L
+patch/9_13.jpg ,236  ,12       ,M
+patch/9_14.jpg ,175  ,10       ,K
+patch/9_15.jpg ,93   ,7        ,H
+patch/9_16.jpg ,58   ,5        ,F
+patch/9_17.jpg ,185  ,10       ,K
+patch/9_18.jpg ,186  ,10       ,K
+patch/9_19.jpg ,229  ,11       ,L
+patch/9_20.jpg ,219  ,11       ,L
+patch/9_21.jpg ,234  ,11       ,L
+patch/9_22.jpg ,155  ,9        ,J
+patch/9_23.jpg ,136  ,9        ,J
+patch/9_24.jpg ,116  ,8        ,I
+patch/9_25.jpg ,18   ,2        ,C
+patch/9_26.jpg ,59   ,5        ,F
+patch/9_27.jpg ,61   ,5        ,F
+patch/9_28.jpg ,69   ,6        ,G
+patch/9_29.jpg ,78   ,6        ,G
+patch/9_30.jpg ,55   ,5        ,F
+patch/9_31.jpg ,41   ,4        ,E
+patch/9_32.jpg ,44   ,4        ,E
+patch/9_33.jpg ,1    ,1        ,B
+patch/9_34.jpg ,2    ,1        ,B
+patch/9_35.jpg ,4    ,1        ,B
+patch/9_36.jpg ,3    ,1        ,B
+patch/9_37.jpg ,3    ,1        ,B
+patch/9_38.jpg ,2    ,1        ,B
+patch/9_39.jpg ,2    ,1        ,B
+patch/9_40.jpg ,3    ,1        ,B
+patch/9_41.jpg ,0    ,0        ,A
+patch/9_42.jpg ,1    ,1        ,B
+patch/9_43.jpg ,0    ,0        ,A
+patch/9_44.jpg ,0    ,0        ,A
+patch/9_45.jpg ,2    ,1        ,B
+patch/9_46.jpg ,0    ,0        ,A
+patch/9_47.jpg ,1    ,1        ,B
+patch/9_48.jpg ,1    ,1        ,B
+patch/10_1.jpg ,0    ,0        ,A
+patch/10_2.jpg ,0    ,0        ,A
+patch/10_3.jpg ,0    ,0        ,A
+patch/10_4.jpg ,0    ,0        ,A
+patch/10_5.jpg ,0    ,0        ,A
+patch/10_6.jpg ,100  ,7        ,H
+patch/10_7.jpg ,37   ,4        ,E
+patch/10_8.jpg ,56   ,5        ,F
+patch/10_9.jpg ,53   ,5        ,F
+patch/10_10.jpg,52   ,5        ,F
+patch/10_11.jpg,92   ,7        ,H
+patch/10_12.jpg,101  ,7        ,H
+patch/10_13.jpg,84   ,7        ,H
+patch/10_14.jpg,66   ,6        ,G
+patch/10_15.jpg,59   ,5        ,F
+patch/12_1.jpg ,0    ,0        ,A
+patch/12_2.jpg ,0    ,0        ,A
+patch/12_3.jpg ,10   ,2        ,C
+patch/12_4.jpg ,27   ,3        ,D
+patch/12_5.jpg ,20   ,2        ,C
+patch/12_6.jpg ,4    ,1        ,B
+patch/12_7.jpg ,0    ,0        ,A
+patch/12_8.jpg ,0    ,0        ,A
+patch/12_9.jpg ,17   ,2        ,C
+patch/12_10.jpg,45   ,4        ,E
+patch/12_11.jpg,63   ,6        ,G
+patch/12_12.jpg,77   ,6        ,G
+patch/12_13.jpg,61   ,5        ,F
+patch/12_14.jpg,72   ,6        ,G
+patch/12_15.jpg,64   ,6        ,G
+patch/12_16.jpg,20   ,2        ,C
+patch/12_17.jpg,4    ,1        ,B
+patch/12_18.jpg,14   ,2        ,C
+patch/12_19.jpg,12   ,2        ,C
+patch/12_20.jpg,10   ,2        ,C
+patch/12_21.jpg,8    ,1        ,B
+patch/12_22.jpg,11   ,2        ,C
+patch/12_23.jpg,6    ,1        ,B
+patch/12_24.jpg,7    ,1        ,B
+patch/12_25.jpg,2    ,1        ,B
+patch/12_26.jpg,3    ,1        ,B
+patch/12_27.jpg,2    ,1        ,B
+patch/12_28.jpg,3    ,1        ,B
+patch/12_29.jpg,3    ,1        ,B
+patch/12_30.jpg,2    ,1        ,B
+patch/12_31.jpg,2    ,1        ,B
+patch/12_32.jpg,1    ,1        ,B
+patch/12_33.jpg,1    ,1        ,B
+patch/12_34.jpg,0    ,0        ,A
+patch/12_35.jpg,1    ,1        ,B
+patch/12_36.jpg,0    ,0        ,A
+patch/12_37.jpg,0    ,0        ,A
+patch/12_38.jpg,1    ,1        ,B
+patch/12_39.jpg,3    ,1        ,B
+patch/12_40.jpg,0    ,0        ,A
+patch/12_41.jpg,1    ,1        ,B
+patch/12_42.jpg,0    ,0        ,A
+patch/12_43.jpg,1    ,1        ,B
+patch/12_44.jpg,1    ,1        ,B
+patch/12_45.jpg,1    ,1        ,B
+patch/12_46.jpg,1    ,1        ,B
+patch/12_47.jpg,0    ,0        ,A
+patch/12_48.jpg,0    ,0        ,A
+patch/15_1.jpg ,0    ,0        ,A
+patch/15_2.jpg ,0    ,0        ,A
+patch/15_3.jpg ,0    ,0        ,A
+patch/15_4.jpg ,0    ,0        ,A
+patch/15_5.jpg ,0    ,0        ,A
+patch/15_6.jpg ,0    ,0        ,A
+patch/15_7.jpg ,0    ,0        ,A
+patch/15_8.jpg ,2    ,1        ,B
+patch/15_9.jpg ,0    ,0        ,A
+patch/15_10.jpg,0    ,0        ,A
+patch/15_11.jpg,204  ,11       ,L
+patch/15_12.jpg,264  ,12       ,M
+patch/15_13.jpg,317  ,13       ,N
+patch/15_14.jpg,274  ,12       ,M
+patch/15_15.jpg,149  ,9        ,J
+patch/15_16.jpg,62   ,5        ,F
+patch/15_17.jpg,65   ,6        ,G
+patch/15_18.jpg,70   ,6        ,G
+patch/15_19.jpg,63   ,6        ,G
+patch/15_20.jpg,73   ,6        ,G
+patch/16_1.jpg ,19   ,2        ,C
+patch/16_2.jpg ,17   ,2        ,C
+patch/16_3.jpg ,16   ,2        ,C
+patch/16_4.jpg ,18   ,2        ,C
+patch/16_5.jpg ,21   ,2        ,C
+patch/16_6.jpg ,11   ,2        ,C
+patch/16_7.jpg ,10   ,2        ,C
+patch/16_8.jpg ,10   ,2        ,C
+patch/16_9.jpg ,8    ,1        ,B
+patch/16_10.jpg,10   ,2        ,C
+patch/16_11.jpg,11   ,2        ,C
+patch/16_12.jpg,7    ,1        ,B
+patch/16_13.jpg,4    ,1        ,B
+patch/16_14.jpg,5    ,1        ,B
+patch/16_15.jpg,5    ,1        ,B
+patch/16_16.jpg,7    ,1        ,B
+patch/16_17.jpg,6    ,1        ,B
+patch/16_18.jpg,7    ,1        ,B
+patch/16_19.jpg,4    ,1        ,B
+patch/16_20.jpg,2    ,1        ,B
+patch/16_21.jpg,3    ,1        ,B
+patch/16_22.jpg,3    ,1        ,B
+patch/16_23.jpg,3    ,1        ,B
+patch/16_24.jpg,2    ,1        ,B
+patch/17_1.jpg ,0    ,0        ,A
+patch/17_2.jpg ,0    ,0        ,A
+patch/17_3.jpg ,0    ,0        ,A
+patch/17_4.jpg ,0    ,0        ,A
+patch/17_5.jpg ,0    ,0        ,A
+patch/17_6.jpg ,0    ,0        ,A
+patch/17_7.jpg ,0    ,0        ,A
+patch/17_8.jpg ,0    ,0        ,A
+patch/17_9.jpg ,0    ,0        ,A
+patch/17_10.jpg,0    ,0        ,A
+patch/17_11.jpg,0    ,0        ,A
+patch/17_12.jpg,0    ,0        ,A
+patch/17_13.jpg,0    ,0        ,A
+patch/17_14.jpg,0    ,0        ,A
+patch/17_15.jpg,0    ,0        ,A
+patch/17_16.jpg,0    ,0        ,A
+patch/17_17.jpg,13   ,2        ,C
+patch/17_18.jpg,18   ,2        ,C
+patch/17_19.jpg,35   ,3        ,D
+patch/17_20.jpg,30   ,3        ,D
+patch/17_21.jpg,56   ,5        ,F
+patch/17_22.jpg,42   ,4        ,E
+patch/17_23.jpg,30   ,3        ,D
+patch/17_24.jpg,22   ,2        ,C
+patch/17_25.jpg,12   ,2        ,C
+patch/17_26.jpg,20   ,2        ,C
+patch/17_27.jpg,15   ,2        ,C
+patch/17_28.jpg,12   ,2        ,C
+patch/17_29.jpg,9    ,1        ,B
+patch/17_30.jpg,15   ,2        ,C
+patch/17_31.jpg,14   ,2        ,C
+patch/17_32.jpg,12   ,2        ,C
+patch/17_33.jpg,1    ,1        ,B
+patch/17_34.jpg,1    ,1        ,B
+patch/17_35.jpg,1    ,1        ,B
+patch/17_36.jpg,1    ,1        ,B
+patch/17_37.jpg,1    ,1        ,B
+patch/17_38.jpg,1    ,1        ,B
+patch/17_39.jpg,1    ,1        ,B
+patch/17_40.jpg,0    ,0        ,A
+patch/17_41.jpg,0    ,0        ,A
+patch/17_42.jpg,0    ,0        ,A
+patch/17_43.jpg,0    ,0        ,A
+patch/17_44.jpg,0    ,0        ,A
+patch/17_45.jpg,0    ,0        ,A
+patch/17_46.jpg,0    ,0        ,A
+patch/17_47.jpg,0    ,0        ,A
+patch/17_48.jpg,0    ,0        ,A
+patch/18_1.jpg ,0    ,0        ,A
+patch/18_2.jpg ,0    ,0        ,A
+patch/18_3.jpg ,0    ,0        ,A
+patch/18_4.jpg ,0    ,0        ,A
+patch/18_5.jpg ,0    ,0        ,A
+patch/18_6.jpg ,0    ,0        ,A
+patch/18_7.jpg ,0    ,0        ,A
+patch/18_8.jpg ,0    ,0        ,A
+patch/18_9.jpg ,0    ,0        ,A
+patch/18_10.jpg,7    ,1        ,B
+patch/18_11.jpg,31   ,3        ,D
+patch/18_12.jpg,40   ,4        ,E
+patch/18_13.jpg,44   ,4        ,E
+patch/18_14.jpg,34   ,3        ,D
+patch/18_15.jpg,31   ,3        ,D
+patch/18_16.jpg,21   ,2        ,C
+patch/18_17.jpg,74   ,6        ,G
+patch/18_18.jpg,72   ,6        ,G
+patch/18_19.jpg,52   ,5        ,F
+patch/18_20.jpg,42   ,4        ,E
+patch/18_21.jpg,53   ,5        ,F
+patch/18_22.jpg,46   ,4        ,E
+patch/18_23.jpg,48   ,4        ,E
+patch/18_24.jpg,41   ,4        ,E
+patch/18_25.jpg,7    ,1        ,B
+patch/18_26.jpg,5    ,1        ,B
+patch/18_27.jpg,4    ,1        ,B
+patch/18_28.jpg,4    ,1        ,B
+patch/18_29.jpg,4    ,1        ,B
+patch/18_30.jpg,5    ,1        ,B
+patch/18_31.jpg,6    ,1        ,B
+patch/18_32.jpg,3    ,1        ,B
+patch/18_33.jpg,1    ,1        ,B
+patch/18_34.jpg,1    ,1        ,B
+patch/18_35.jpg,2    ,1        ,B
+patch/18_36.jpg,1    ,1        ,B
+patch/18_37.jpg,0    ,0        ,A
+patch/18_38.jpg,1    ,1        ,B
+patch/18_39.jpg,1    ,1        ,B
+patch/18_40.jpg,1    ,1        ,B
+patch/18_41.jpg,0    ,0        ,A
+patch/18_42.jpg,0    ,0        ,A
+patch/18_43.jpg,0    ,0        ,A
+patch/18_44.jpg,0    ,0        ,A
+patch/18_45.jpg,0    ,0        ,A
+patch/18_46.jpg,0    ,0        ,A
+patch/18_47.jpg,0    ,0        ,A
+patch/18_48.jpg,0    ,0        ,A
+patch/19_1.jpg ,71   ,6        ,G
+patch/19_2.jpg ,19   ,2        ,C
+patch/19_3.jpg ,183  ,10       ,K
+patch/19_4.jpg ,362  ,13       ,N
+patch/19_5.jpg ,16   ,2        ,C
+patch/19_6.jpg ,103  ,8        ,I
+patch/20_1.jpg ,319  ,13       ,N
+patch/20_2.jpg ,317  ,13       ,N
+patch/20_3.jpg ,340  ,13       ,N
+patch/20_4.jpg ,277  ,13       ,N
+patch/20_5.jpg ,277  ,13       ,N
+patch/20_6.jpg ,244  ,12       ,M
+patch/20_7.jpg ,223  ,11       ,L
+patch/20_8.jpg ,180  ,10       ,K
+patch/20_9.jpg ,254  ,12       ,M
+patch/20_10.jpg,161  ,9        ,J
+patch/20_11.jpg,79   ,6        ,G
+patch/20_12.jpg,34   ,3        ,D
+patch/21_1.jpg ,0    ,0        ,A
+patch/21_2.jpg ,0    ,0        ,A
+patch/21_3.jpg ,0    ,0        ,A
+patch/21_4.jpg ,0    ,0        ,A
+patch/21_5.jpg ,0    ,0        ,A
+patch/21_6.jpg ,0    ,0        ,A
+patch/21_7.jpg ,0    ,0        ,A
+patch/21_8.jpg ,0    ,0        ,A
+patch/21_9.jpg ,0    ,0        ,A
+patch/21_10.jpg,0    ,0        ,A
+patch/21_11.jpg,0    ,0        ,A
+patch/21_12.jpg,0    ,0        ,A
+patch/21_13.jpg,22   ,2        ,C
+patch/21_14.jpg,37   ,4        ,E
+patch/21_15.jpg,0    ,0        ,A
+patch/21_16.jpg,0    ,0        ,A
+patch/21_17.jpg,0    ,0        ,A
+patch/21_18.jpg,30   ,3        ,D
+patch/21_19.jpg,69   ,6        ,G
+patch/21_20.jpg,5    ,1        ,B
+patch/21_21.jpg,1    ,1        ,B
+patch/21_22.jpg,5    ,1        ,B
+patch/21_23.jpg,43   ,4        ,E
+patch/21_24.jpg,52   ,5        ,F
+patch/21_25.jpg,29   ,3        ,D
+patch/21_26.jpg,2    ,1        ,B
+patch/21_27.jpg,11   ,2        ,C
+patch/21_28.jpg,9    ,1        ,B
+patch/21_29.jpg,15   ,2        ,C
+patch/21_30.jpg,21   ,2        ,C
+patch/21_31.jpg,2    ,1        ,B
+patch/21_32.jpg,3    ,1        ,B
+patch/21_33.jpg,4    ,1        ,B
+patch/21_34.jpg,4    ,1        ,B
+patch/21_35.jpg,4    ,1        ,B
+patch/21_36.jpg,2    ,1        ,B
+patch/21_37.jpg,1    ,1        ,B
+patch/21_38.jpg,3    ,1        ,B
+patch/21_39.jpg,1    ,1        ,B
+patch/21_40.jpg,1    ,1        ,B
+patch/22_1.jpg ,4    ,1        ,B
+patch/22_2.jpg ,5    ,1        ,B
+patch/22_3.jpg ,2    ,1        ,B
+patch/22_4.jpg ,7    ,1        ,B
+patch/22_5.jpg ,17   ,2        ,C
+patch/22_6.jpg ,9    ,1        ,B
+patch/22_7.jpg ,2    ,1        ,B
+patch/22_8.jpg ,2    ,1        ,B
+patch/22_9.jpg ,68   ,6        ,G
+patch/22_10.jpg,63   ,6        ,G
+patch/22_11.jpg,77   ,6        ,G
+patch/22_12.jpg,80   ,7        ,H
+patch/22_13.jpg,72   ,6        ,G
+patch/22_14.jpg,85   ,7        ,H
+patch/22_15.jpg,74   ,6        ,G
+patch/22_16.jpg,73   ,6        ,G
+patch/22_17.jpg,3    ,1        ,B
+patch/22_18.jpg,8    ,1        ,B
+patch/22_19.jpg,14   ,2        ,C
+patch/22_20.jpg,17   ,2        ,C
+patch/22_21.jpg,21   ,2        ,C
+patch/22_22.jpg,25   ,3        ,D
+patch/22_23.jpg,19   ,2        ,C
+patch/22_24.jpg,24   ,3        ,D
+patch/22_25.jpg,20   ,2        ,C
+patch/22_26.jpg,21   ,2        ,C
+patch/22_27.jpg,17   ,2        ,C
+patch/22_28.jpg,16   ,2        ,C
+patch/22_29.jpg,12   ,2        ,C
+patch/22_30.jpg,21   ,2        ,C
+patch/22_31.jpg,14   ,2        ,C
+patch/22_32.jpg,17   ,2        ,C
+patch/22_33.jpg,10   ,2        ,C
+patch/22_34.jpg,7    ,1        ,B
+patch/22_35.jpg,10   ,2        ,C
+patch/22_36.jpg,5    ,1        ,B
+patch/22_37.jpg,7    ,1        ,B
+patch/22_38.jpg,5    ,1        ,B
+patch/22_39.jpg,8    ,1        ,B
+patch/22_40.jpg,6    ,1        ,B
+patch/23_1.jpg ,0    ,0        ,A
+patch/23_2.jpg ,0    ,0        ,A
+patch/23_3.jpg ,0    ,0        ,A
+patch/23_4.jpg ,0    ,0        ,A
+patch/23_5.jpg ,0    ,0        ,A
+patch/23_6.jpg ,0    ,0        ,A
+patch/23_7.jpg ,0    ,0        ,A
+patch/23_8.jpg ,0    ,0        ,A
+patch/23_9.jpg ,0    ,0        ,A
+patch/23_10.jpg,0    ,0        ,A
+patch/23_11.jpg,0    ,0        ,A
+patch/23_12.jpg,0    ,0        ,A
+patch/23_13.jpg,0    ,0        ,A
+patch/23_14.jpg,0    ,0        ,A
+patch/23_15.jpg,0    ,0        ,A
+patch/23_16.jpg,0    ,0        ,A
+patch/23_17.jpg,1    ,1        ,B
+patch/23_18.jpg,9    ,1        ,B
+patch/23_19.jpg,18   ,2        ,C
+patch/23_20.jpg,23   ,3        ,D
+patch/23_21.jpg,40   ,4        ,E
+patch/23_22.jpg,47   ,4        ,E
+patch/23_23.jpg,87   ,7        ,H
+patch/23_24.jpg,92   ,7        ,H
+patch/23_25.jpg,44   ,4        ,E
+patch/23_26.jpg,37   ,4        ,E
+patch/23_27.jpg,47   ,4        ,E
+patch/23_28.jpg,46   ,4        ,E
+patch/23_29.jpg,43   ,4        ,E
+patch/23_30.jpg,39   ,4        ,E
+patch/23_31.jpg,44   ,4        ,E
+patch/23_32.jpg,29   ,3        ,D
+patch/23_33.jpg,4    ,1        ,B
+patch/23_34.jpg,4    ,1        ,B
+patch/23_35.jpg,6    ,1        ,B
+patch/23_36.jpg,1    ,1        ,B
+patch/23_37.jpg,2    ,1        ,B
+patch/23_38.jpg,4    ,1        ,B
+patch/23_39.jpg,10   ,2        ,C
+patch/23_40.jpg,2    ,1        ,B
+patch/24_1.jpg ,0    ,0        ,A
+patch/24_2.jpg ,0    ,0        ,A
+patch/24_3.jpg ,13   ,2        ,C
+patch/24_4.jpg ,33   ,3        ,D
+patch/24_5.jpg ,40   ,4        ,E
+patch/24_6.jpg ,34   ,3        ,D
+patch/24_7.jpg ,5    ,1        ,B
+patch/24_8.jpg ,0    ,0        ,A
+patch/24_9.jpg ,106  ,8        ,I
+patch/24_10.jpg,195  ,10       ,K
+patch/24_11.jpg,149  ,9        ,J
+patch/24_12.jpg,104  ,8        ,I
+patch/24_13.jpg,112  ,8        ,I
+patch/24_14.jpg,143  ,9        ,J
+patch/24_15.jpg,170  ,10       ,K
+patch/24_16.jpg,139  ,9        ,J
+patch/24_17.jpg,74   ,6        ,G
+patch/24_18.jpg,40   ,4        ,E
+patch/24_19.jpg,16   ,2        ,C
+patch/24_20.jpg,13   ,2        ,C
+patch/24_21.jpg,13   ,2        ,C
+patch/24_22.jpg,14   ,2        ,C
+patch/24_23.jpg,24   ,3        ,D
+patch/24_24.jpg,41   ,4        ,E
+patch/24_25.jpg,14   ,2        ,C
+patch/24_26.jpg,11   ,2        ,C
+patch/24_27.jpg,6    ,1        ,B
+patch/24_28.jpg,5    ,1        ,B
+patch/24_29.jpg,5    ,1        ,B
+patch/24_30.jpg,4    ,1        ,B
+patch/24_31.jpg,5    ,1        ,B
+patch/24_32.jpg,9    ,1        ,B
+patch/24_33.jpg,10   ,2        ,C
+patch/24_34.jpg,2    ,1        ,B
+patch/24_35.jpg,2    ,1        ,B
+patch/24_36.jpg,2    ,1        ,B
+patch/24_37.jpg,3    ,1        ,B
+patch/24_38.jpg,3    ,1        ,B
+patch/24_39.jpg,2    ,1        ,B
+patch/24_40.jpg,5    ,1        ,B
+patch/26_1.jpg ,0    ,0        ,A
+patch/26_2.jpg ,0    ,0        ,A
+patch/26_3.jpg ,0    ,0        ,A
+patch/26_4.jpg ,0    ,0        ,A
+patch/26_5.jpg ,0    ,0        ,A
+patch/26_6.jpg ,1    ,1        ,B
+patch/26_7.jpg ,0    ,0        ,A
+patch/26_8.jpg ,0    ,0        ,A
+patch/26_9.jpg ,0    ,0        ,A
+patch/26_10.jpg,0    ,0        ,A
+patch/26_11.jpg,0    ,0        ,A
+patch/26_12.jpg,7    ,1        ,B
+patch/26_13.jpg,72   ,6        ,G
+patch/26_14.jpg,273  ,12       ,M
+patch/26_15.jpg,192  ,10       ,K
+patch/26_16.jpg,121  ,8        ,I
+patch/26_17.jpg,35   ,3        ,D
+patch/26_18.jpg,55   ,5        ,F
+patch/26_19.jpg,78   ,6        ,G
+patch/26_20.jpg,101  ,7        ,H
+patch/26_21.jpg,161  ,9        ,J
+patch/26_22.jpg,154  ,9        ,J
+patch/26_23.jpg,146  ,9        ,J
+patch/26_24.jpg,99   ,7        ,H
+patch/26_25.jpg,59   ,5        ,F
+patch/26_26.jpg,70   ,6        ,G
+patch/26_27.jpg,85   ,7        ,H
+patch/26_28.jpg,85   ,7        ,H
+patch/26_29.jpg,73   ,6        ,G
+patch/26_30.jpg,70   ,6        ,G
+patch/26_31.jpg,65   ,6        ,G
+patch/26_32.jpg,65   ,6        ,G
+patch/26_33.jpg,32   ,3        ,D
+patch/26_34.jpg,31   ,3        ,D
+patch/26_35.jpg,29   ,3        ,D
+patch/26_36.jpg,45   ,4        ,E
+patch/26_37.jpg,47   ,4        ,E
+patch/26_38.jpg,59   ,5        ,F
+patch/26_39.jpg,41   ,4        ,E
+patch/26_40.jpg,40   ,4        ,E
+patch/27_1.jpg ,90   ,7        ,H
+patch/27_2.jpg ,50   ,5        ,F
+patch/27_3.jpg ,31   ,3        ,D
+patch/27_4.jpg ,25   ,3        ,D
+patch/27_5.jpg ,45   ,4        ,E
+patch/27_6.jpg ,48   ,4        ,E
+patch/27_7.jpg ,43   ,4        ,E
+patch/27_8.jpg ,91   ,7        ,H
+patch/27_9.jpg ,156  ,9        ,J
+patch/27_10.jpg,214  ,11       ,L
+patch/27_11.jpg,195  ,10       ,K
+patch/27_12.jpg,181  ,10       ,K
+patch/27_13.jpg,182  ,10       ,K
+patch/27_14.jpg,196  ,11       ,L
+patch/27_15.jpg,130  ,9        ,J
+patch/27_16.jpg,104  ,8        ,I
+patch/27_17.jpg,4    ,1        ,B
+patch/27_18.jpg,7    ,1        ,B
+patch/27_19.jpg,13   ,2        ,C
+patch/27_20.jpg,13   ,2        ,C
+patch/27_21.jpg,14   ,2        ,C
+patch/27_22.jpg,14   ,2        ,C
+patch/27_23.jpg,9    ,1        ,B
+patch/27_24.jpg,3    ,1        ,B
+patch/28_1.jpg ,73   ,6        ,G
+patch/28_2.jpg ,66   ,6        ,G
+patch/28_3.jpg ,66   ,6        ,G
+patch/28_4.jpg ,71   ,6        ,G
+patch/28_5.jpg ,76   ,6        ,G
+patch/28_6.jpg ,87   ,7        ,H
+patch/28_7.jpg ,78   ,6        ,G
+patch/28_8.jpg ,73   ,6        ,G
+patch/28_9.jpg ,73   ,6        ,G
+patch/28_10.jpg,84   ,7        ,H
+patch/28_11.jpg,83   ,7        ,H
+patch/28_12.jpg,66   ,6        ,G
+patch/28_13.jpg,67   ,6        ,G
+patch/28_14.jpg,74   ,6        ,G
+patch/28_15.jpg,64   ,6        ,G
+patch/28_16.jpg,66   ,6        ,G
+patch/28_17.jpg,52   ,5        ,F
+patch/28_18.jpg,41   ,4        ,E
+patch/28_19.jpg,45   ,4        ,E
+patch/28_20.jpg,44   ,4        ,E
+patch/28_21.jpg,43   ,4        ,E
+patch/28_22.jpg,36   ,3        ,D
+patch/28_23.jpg,39   ,4        ,E
+patch/28_24.jpg,45   ,4        ,E
+patch/28_25.jpg,19   ,2        ,C
+patch/28_26.jpg,25   ,3        ,D
+patch/28_27.jpg,17   ,2        ,C
+patch/28_28.jpg,19   ,2        ,C
+patch/28_29.jpg,26   ,3        ,D
+patch/28_30.jpg,17   ,2        ,C
+patch/28_31.jpg,27   ,3        ,D
+patch/28_32.jpg,23   ,3        ,D
+patch/28_33.jpg,7    ,1        ,B
+patch/28_34.jpg,6    ,1        ,B
+patch/28_35.jpg,6    ,1        ,B
+patch/28_36.jpg,5    ,1        ,B
+patch/28_37.jpg,8    ,1        ,B
+patch/28_38.jpg,6    ,1        ,B
+patch/28_39.jpg,9    ,1        ,B
+patch/28_40.jpg,7    ,1        ,B
+patch/29_1.jpg ,76   ,6        ,G
+patch/29_2.jpg ,85   ,7        ,H
+patch/29_3.jpg ,78   ,6        ,G
+patch/29_4.jpg ,81   ,7        ,H
+patch/29_5.jpg ,60   ,5        ,F
+patch/29_6.jpg ,75   ,6        ,G
+patch/29_7.jpg ,64   ,6        ,G
+patch/29_8.jpg ,52   ,5        ,F
+patch/29_9.jpg ,28   ,3        ,D
+patch/29_10.jpg,35   ,3        ,D
+patch/29_11.jpg,42   ,4        ,E
+patch/29_12.jpg,42   ,4        ,E
+patch/29_13.jpg,40   ,4        ,E
+patch/29_14.jpg,28   ,3        ,D
+patch/29_15.jpg,47   ,4        ,E
+patch/29_16.jpg,46   ,4        ,E
+patch/29_17.jpg,19   ,2        ,C
+patch/29_18.jpg,26   ,3        ,D
+patch/29_19.jpg,34   ,3        ,D
+patch/29_20.jpg,39   ,4        ,E
+patch/29_21.jpg,55   ,5        ,F
+patch/29_22.jpg,68   ,6        ,G
+patch/29_23.jpg,65   ,6        ,G
+patch/29_24.jpg,66   ,6        ,G
+patch/29_25.jpg,13   ,2        ,C
+patch/29_26.jpg,16   ,2        ,C
+patch/29_27.jpg,21   ,2        ,C
+patch/29_28.jpg,32   ,3        ,D
+patch/29_29.jpg,30   ,3        ,D
+patch/29_30.jpg,35   ,3        ,D
+patch/29_31.jpg,47   ,4        ,E
+patch/29_32.jpg,37   ,4        ,E
+patch/29_33.jpg,9    ,1        ,B
+patch/29_34.jpg,8    ,1        ,B
+patch/29_35.jpg,13   ,2        ,C
+patch/29_36.jpg,14   ,2        ,C
+patch/29_37.jpg,16   ,2        ,C
+patch/29_38.jpg,17   ,2        ,C
+patch/29_39.jpg,29   ,3        ,D
+patch/29_40.jpg,13   ,2        ,C
+patch/30_1.jpg ,0    ,0        ,A
+patch/30_2.jpg ,0    ,0        ,A
+patch/30_3.jpg ,0    ,0        ,A
+patch/30_4.jpg ,0    ,0        ,A
+patch/30_5.jpg ,0    ,0        ,A
+patch/30_6.jpg ,24   ,3        ,D
+patch/30_7.jpg ,25   ,3        ,D
+patch/30_8.jpg ,71   ,6        ,G
+patch/30_9.jpg ,78   ,6        ,G
+patch/30_10.jpg,22   ,2        ,C
+patch/30_11.jpg,4    ,1        ,B
+patch/30_12.jpg,6    ,1        ,B
+patch/30_13.jpg,6    ,1        ,B
+patch/30_14.jpg,7    ,1        ,B
+patch/30_15.jpg,5    ,1        ,B
+patch/31_1.jpg ,44   ,4        ,E
+patch/31_2.jpg ,40   ,4        ,E
+patch/31_3.jpg ,51   ,5        ,F
+patch/31_4.jpg ,58   ,5        ,F
+patch/31_5.jpg ,50   ,5        ,F
+patch/31_6.jpg ,61   ,5        ,F
+patch/31_7.jpg ,61   ,5        ,F
+patch/31_8.jpg ,47   ,4        ,E
+patch/31_9.jpg ,95   ,7        ,H
+patch/31_10.jpg,92   ,7        ,H
+patch/31_11.jpg,109  ,8        ,I
+patch/31_12.jpg,86   ,7        ,H
+patch/31_13.jpg,68   ,6        ,G
+patch/31_14.jpg,96   ,7        ,H
+patch/31_15.jpg,91   ,7        ,H
+patch/31_16.jpg,65   ,6        ,G
+patch/31_17.jpg,69   ,6        ,G
+patch/31_18.jpg,84   ,7        ,H
+patch/31_19.jpg,86   ,7        ,H
+patch/31_20.jpg,73   ,6        ,G
+patch/31_21.jpg,70   ,6        ,G
+patch/31_22.jpg,65   ,6        ,G
+patch/31_23.jpg,49   ,4        ,E
+patch/31_24.jpg,66   ,6        ,G
+patch/31_25.jpg,60   ,5        ,F
+patch/31_26.jpg,43   ,4        ,E
+patch/31_27.jpg,36   ,3        ,D
+patch/31_28.jpg,34   ,3        ,D
+patch/31_29.jpg,33   ,3        ,D
+patch/31_30.jpg,23   ,3        ,D
+patch/31_31.jpg,19   ,2        ,C
+patch/31_32.jpg,12   ,2        ,C
+patch/31_33.jpg,8    ,1        ,B
+patch/31_34.jpg,12   ,2        ,C
+patch/31_35.jpg,12   ,2        ,C
+patch/31_36.jpg,7    ,1        ,B
+patch/31_37.jpg,6    ,1        ,B
+patch/31_38.jpg,6    ,1        ,B
+patch/31_39.jpg,6    ,1        ,B
+patch/31_40.jpg,5    ,1        ,B
+patch/32_1.jpg ,53   ,5        ,F
+patch/32_2.jpg ,53   ,5        ,F
+patch/32_3.jpg ,51   ,5        ,F
+patch/32_4.jpg ,53   ,5        ,F
+patch/32_5.jpg ,29   ,3        ,D
+patch/32_6.jpg ,22   ,2        ,C
+patch/32_7.jpg ,32   ,3        ,D
+patch/32_8.jpg ,18   ,2        ,C
+patch/32_9.jpg ,20   ,2        ,C
+patch/32_10.jpg,26   ,3        ,D
+patch/32_11.jpg,26   ,3        ,D
+patch/32_12.jpg,22   ,2        ,C
+patch/32_13.jpg,20   ,2        ,C
+patch/32_14.jpg,22   ,2        ,C
+patch/32_15.jpg,20   ,2        ,C
+patch/32_16.jpg,22   ,2        ,C
+patch/32_17.jpg,7    ,1        ,B
+patch/32_18.jpg,3    ,1        ,B
+patch/32_19.jpg,8    ,1        ,B
+patch/32_20.jpg,8    ,1        ,B
+patch/32_21.jpg,2    ,1        ,B
+patch/32_22.jpg,6    ,1        ,B
+patch/32_23.jpg,6    ,1        ,B
+patch/32_24.jpg,3    ,1        ,B
+patch/32_25.jpg,2    ,1        ,B
+patch/32_26.jpg,3    ,1        ,B
+patch/32_27.jpg,1    ,1        ,B
+patch/32_28.jpg,4    ,1        ,B
+patch/32_29.jpg,2    ,1        ,B
+patch/32_30.jpg,2    ,1        ,B
+patch/32_31.jpg,3    ,1        ,B
+patch/32_32.jpg,2    ,1        ,B
+patch/32_33.jpg,3    ,1        ,B
+patch/32_34.jpg,0    ,0        ,A
+patch/32_35.jpg,2    ,1        ,B
+patch/32_36.jpg,0    ,0        ,A
+patch/32_37.jpg,2    ,1        ,B
+patch/32_38.jpg,1    ,1        ,B
+patch/32_39.jpg,1    ,1        ,B
+patch/32_40.jpg,2    ,1        ,B
+patch/33_1.jpg ,32   ,3        ,D
+patch/33_2.jpg ,28   ,3        ,D
+patch/33_3.jpg ,21   ,2        ,C
+patch/33_4.jpg ,28   ,3        ,D
+patch/33_5.jpg ,19   ,2        ,C
+patch/33_6.jpg ,23   ,3        ,D
+patch/33_7.jpg ,22   ,2        ,C
+patch/33_8.jpg ,24   ,3        ,D
+patch/33_9.jpg ,19   ,2        ,C
+patch/33_10.jpg,17   ,2        ,C
+patch/33_11.jpg,19   ,2        ,C
+patch/33_12.jpg,15   ,2        ,C
+patch/33_13.jpg,17   ,2        ,C
+patch/33_14.jpg,17   ,2        ,C
+patch/33_15.jpg,10   ,2        ,C
+patch/34_1.jpg ,0    ,0        ,A
+patch/34_2.jpg ,0    ,0        ,A
+patch/34_3.jpg ,0    ,0        ,A
+patch/34_4.jpg ,0    ,0        ,A
+patch/34_5.jpg ,0    ,0        ,A
+patch/34_6.jpg ,0    ,0        ,A
+patch/34_7.jpg ,0    ,0        ,A
+patch/34_8.jpg ,0    ,0        ,A
+patch/34_9.jpg ,0    ,0        ,A
+patch/34_10.jpg,0    ,0        ,A
+patch/34_11.jpg,0    ,0        ,A
+patch/34_12.jpg,0    ,0        ,A
+patch/34_13.jpg,0    ,0        ,A
+patch/34_14.jpg,0    ,0        ,A
+patch/34_15.jpg,0    ,0        ,A
+patch/34_16.jpg,0    ,0        ,A
+patch/34_17.jpg,49   ,4        ,E
+patch/34_18.jpg,97   ,7        ,H
+patch/34_19.jpg,58   ,5        ,F
+patch/34_20.jpg,22   ,2        ,C
+patch/34_21.jpg,37   ,4        ,E
+patch/34_22.jpg,14   ,2        ,C
+patch/34_23.jpg,20   ,2        ,C
+patch/34_24.jpg,10   ,2        ,C
+patch/34_25.jpg,116  ,8        ,I
+patch/34_26.jpg,95   ,7        ,H
+patch/34_27.jpg,66   ,6        ,G
+patch/34_28.jpg,45   ,4        ,E
+patch/34_29.jpg,46   ,4        ,E
+patch/34_30.jpg,75   ,6        ,G
+patch/34_31.jpg,111  ,8        ,I
+patch/34_32.jpg,106  ,8        ,I
+patch/34_33.jpg,0    ,0        ,A
+patch/34_34.jpg,0    ,0        ,A
+patch/34_35.jpg,0    ,0        ,A
+patch/34_36.jpg,0    ,0        ,A
+patch/34_37.jpg,0    ,0        ,A
+patch/34_38.jpg,1    ,1        ,B
+patch/34_39.jpg,33   ,3        ,D
+patch/34_40.jpg,50   ,5        ,F
+patch/34_41.jpg,0    ,0        ,A
+patch/34_42.jpg,0    ,0        ,A
+patch/34_43.jpg,0    ,0        ,A
+patch/34_44.jpg,0    ,0        ,A
+patch/34_45.jpg,3    ,1        ,B
+patch/34_46.jpg,22   ,2        ,C
+patch/34_47.jpg,22   ,2        ,C
+patch/34_48.jpg,17   ,2        ,C
+patch/35_1.jpg ,0    ,0        ,A
+patch/35_2.jpg ,0    ,0        ,A
+patch/35_3.jpg ,0    ,0        ,A
+patch/35_4.jpg ,0    ,0        ,A
+patch/35_5.jpg ,0    ,0        ,A
+patch/35_6.jpg ,0    ,0        ,A
+patch/35_7.jpg ,0    ,0        ,A
+patch/35_8.jpg ,0    ,0        ,A
+patch/35_9.jpg ,12   ,2        ,C
+patch/35_10.jpg,4    ,1        ,B
+patch/35_11.jpg,12   ,2        ,C
+patch/35_12.jpg,7    ,1        ,B
+patch/35_13.jpg,8    ,1        ,B
+patch/35_14.jpg,13   ,2        ,C
+patch/35_15.jpg,14   ,2        ,C
+patch/35_16.jpg,20   ,2        ,C
+patch/35_17.jpg,54   ,5        ,F
+patch/35_18.jpg,56   ,5        ,F
+patch/35_19.jpg,65   ,6        ,G
+patch/35_20.jpg,56   ,5        ,F
+patch/35_21.jpg,49   ,4        ,E
+patch/35_22.jpg,41   ,4        ,E
+patch/35_23.jpg,45   ,4        ,E
+patch/35_24.jpg,37   ,4        ,E
+patch/35_25.jpg,58   ,5        ,F
+patch/35_26.jpg,54   ,5        ,F
+patch/35_27.jpg,68   ,6        ,G
+patch/35_28.jpg,45   ,4        ,E
+patch/35_29.jpg,45   ,4        ,E
+patch/35_30.jpg,42   ,4        ,E
+patch/35_31.jpg,43   ,4        ,E
+patch/35_32.jpg,52   ,5        ,F
+patch/35_33.jpg,18   ,2        ,C
+patch/35_34.jpg,18   ,2        ,C
+patch/35_35.jpg,16   ,2        ,C
+patch/35_36.jpg,1    ,1        ,B
+patch/35_37.jpg,16   ,2        ,C
+patch/35_38.jpg,24   ,3        ,D
+patch/35_39.jpg,21   ,2        ,C
+patch/35_40.jpg,21   ,2        ,C
+patch/35_41.jpg,3    ,1        ,B
+patch/35_42.jpg,0    ,0        ,A
+patch/35_43.jpg,1    ,1        ,B
+patch/35_44.jpg,0    ,0        ,A
+patch/35_45.jpg,0    ,0        ,A
+patch/35_46.jpg,3    ,1        ,B
+patch/35_47.jpg,3    ,1        ,B
+patch/35_48.jpg,5    ,1        ,B
+patch/36_1.jpg ,19   ,2        ,C
+patch/36_2.jpg ,15   ,2        ,C
+patch/36_3.jpg ,11   ,2        ,C
+patch/36_4.jpg ,13   ,2        ,C
+patch/36_5.jpg ,11   ,2        ,C
+patch/36_6.jpg ,10   ,2        ,C
+patch/36_7.jpg ,6    ,1        ,B
+patch/36_8.jpg ,6    ,1        ,B
+patch/36_9.jpg ,0    ,0        ,A
+patch/36_10.jpg,0    ,0        ,A
+patch/36_11.jpg,0    ,0        ,A
+patch/36_12.jpg,0    ,0        ,A
+patch/36_13.jpg,0    ,0        ,A
+patch/36_14.jpg,0    ,0        ,A
+patch/36_15.jpg,0    ,0        ,A
+patch/36_16.jpg,0    ,0        ,A
+patch/36_17.jpg,150  ,9        ,J
+patch/36_18.jpg,165  ,10       ,K
+patch/36_19.jpg,18   ,2        ,C
+patch/36_20.jpg,0    ,0        ,A
+patch/36_21.jpg,0    ,0        ,A
+patch/36_22.jpg,103  ,8        ,I
+patch/36_23.jpg,106  ,8        ,I
+patch/36_24.jpg,100  ,7        ,H
+patch/36_25.jpg,170  ,10       ,K
+patch/36_26.jpg,97   ,7        ,H
+patch/36_27.jpg,40   ,4        ,E
+patch/36_28.jpg,47   ,4        ,E
+patch/36_29.jpg,83   ,7        ,H
+patch/36_30.jpg,113  ,8        ,I
+patch/36_31.jpg,146  ,9        ,J
+patch/36_32.jpg,122  ,8        ,I
+patch/36_33.jpg,61   ,5        ,F
+patch/36_34.jpg,67   ,6        ,G
+patch/36_35.jpg,68   ,6        ,G
+patch/36_36.jpg,53   ,5        ,F
+patch/36_37.jpg,51   ,5        ,F
+patch/36_38.jpg,47   ,4        ,E
+patch/36_39.jpg,39   ,4        ,E
+patch/36_40.jpg,36   ,3        ,D
+patch/36_41.jpg,0    ,0        ,A
+patch/36_42.jpg,17   ,2        ,C
+patch/36_43.jpg,23   ,3        ,D
+patch/36_44.jpg,15   ,2        ,C
+patch/36_45.jpg,8    ,1        ,B
+patch/36_46.jpg,22   ,2        ,C
+patch/36_47.jpg,20   ,2        ,C
+patch/36_48.jpg,26   ,3        ,D
+patch/38_1.jpg ,77   ,6        ,G
+patch/38_2.jpg ,86   ,7        ,H
+patch/38_3.jpg ,82   ,7        ,H
+patch/38_4.jpg ,68   ,6        ,G
+patch/38_5.jpg ,61   ,5        ,F
+patch/38_6.jpg ,66   ,6        ,G
+patch/39_1.jpg ,2    ,1        ,B
+patch/39_2.jpg ,6    ,1        ,B
+patch/39_3.jpg ,7    ,1        ,B
+patch/39_4.jpg ,1    ,1        ,B
+patch/39_5.jpg ,5    ,1        ,B
+patch/39_6.jpg ,4    ,1        ,B
+patch/39_7.jpg ,4    ,1        ,B
+patch/39_8.jpg ,7    ,1        ,B
+patch/39_9.jpg ,3    ,1        ,B
+patch/39_10.jpg,3    ,1        ,B
+patch/39_11.jpg,3    ,1        ,B
+patch/39_12.jpg,4    ,1        ,B
+patch/39_13.jpg,5    ,1        ,B
+patch/39_14.jpg,6    ,1        ,B
+patch/39_15.jpg,5    ,1        ,B
+patch/39_16.jpg,6    ,1        ,B
+patch/39_17.jpg,5    ,1        ,B
+patch/39_18.jpg,3    ,1        ,B
+patch/39_19.jpg,4    ,1        ,B
+patch/39_20.jpg,5    ,1        ,B
+patch/39_21.jpg,1    ,1        ,B
+patch/39_22.jpg,5    ,1        ,B
+patch/39_23.jpg,4    ,1        ,B
+patch/39_24.jpg,3    ,1        ,B
+patch/39_25.jpg,3    ,1        ,B
+patch/39_26.jpg,7    ,1        ,B
+patch/39_27.jpg,2    ,1        ,B
+patch/39_28.jpg,5    ,1        ,B
+patch/39_29.jpg,4    ,1        ,B
+patch/39_30.jpg,2    ,1        ,B
+patch/39_31.jpg,3    ,1        ,B
+patch/39_32.jpg,3    ,1        ,B
+patch/39_33.jpg,7    ,1        ,B
+patch/39_34.jpg,3    ,1        ,B
+patch/39_35.jpg,4    ,1        ,B
+patch/39_36.jpg,3    ,1        ,B
+patch/39_37.jpg,4    ,1        ,B
+patch/39_38.jpg,5    ,1        ,B
+patch/39_39.jpg,4    ,1        ,B
+patch/39_40.jpg,4    ,1        ,B
+patch/40_1.jpg ,65   ,6        ,G
+patch/40_2.jpg ,59   ,5        ,F
+patch/40_3.jpg ,12   ,2        ,C
+patch/40_4.jpg ,38   ,4        ,E
+patch/40_5.jpg ,46   ,4        ,E
+patch/40_6.jpg ,49   ,4        ,E
+patch/40_7.jpg ,29   ,3        ,D
+patch/40_8.jpg ,36   ,3        ,D
+patch/40_9.jpg ,31   ,3        ,D
+patch/40_10.jpg,46   ,4        ,E
+patch/40_11.jpg,26   ,3        ,D
+patch/40_12.jpg,43   ,4        ,E
+patch/40_13.jpg,32   ,3        ,D
+patch/40_14.jpg,30   ,3        ,D
+patch/40_15.jpg,31   ,3        ,D
+patch/40_16.jpg,24   ,3        ,D
+patch/40_17.jpg,20   ,2        ,C
+patch/40_18.jpg,35   ,3        ,D
+patch/40_19.jpg,28   ,3        ,D
+patch/40_20.jpg,36   ,3        ,D
+patch/40_21.jpg,24   ,3        ,D
+patch/40_22.jpg,18   ,2        ,C
+patch/40_23.jpg,13   ,2        ,C
+patch/40_24.jpg,14   ,2        ,C
+patch/40_25.jpg,12   ,2        ,C
+patch/40_26.jpg,30   ,3        ,D
+patch/40_27.jpg,20   ,2        ,C
+patch/40_28.jpg,20   ,2        ,C
+patch/40_29.jpg,13   ,2        ,C
+patch/40_30.jpg,16   ,2        ,C
+patch/40_31.jpg,14   ,2        ,C
+patch/40_32.jpg,12   ,2        ,C
+patch/40_33.jpg,6    ,1        ,B
+patch/40_34.jpg,7    ,1        ,B
+patch/40_35.jpg,7    ,1        ,B
+patch/40_36.jpg,12   ,2        ,C
+patch/40_37.jpg,7    ,1        ,B
+patch/40_38.jpg,8    ,1        ,B
+patch/40_39.jpg,10   ,2        ,C
+patch/40_40.jpg,10   ,2        ,C
+patch/40_41.jpg,7    ,1        ,B
+patch/40_42.jpg,6    ,1        ,B
+patch/40_43.jpg,6    ,1        ,B
+patch/40_44.jpg,11   ,2        ,C
+patch/40_45.jpg,0    ,0        ,A
+patch/40_46.jpg,5    ,1        ,B
+patch/40_47.jpg,5    ,1        ,B
+patch/40_48.jpg,8    ,1        ,B
+patch/41_1.jpg ,76   ,6        ,G
+patch/41_2.jpg ,73   ,6        ,G
+patch/41_3.jpg ,57   ,5        ,F
+patch/41_4.jpg ,57   ,5        ,F
+patch/41_5.jpg ,48   ,4        ,E
+patch/41_6.jpg ,49   ,4        ,E
+patch/41_7.jpg ,52   ,5        ,F
+patch/41_8.jpg ,49   ,4        ,E
+patch/41_9.jpg ,51   ,5        ,F
+patch/41_10.jpg,45   ,4        ,E
+patch/41_11.jpg,38   ,4        ,E
+patch/41_12.jpg,44   ,4        ,E
+patch/41_13.jpg,44   ,4        ,E
+patch/41_14.jpg,42   ,4        ,E
+patch/41_15.jpg,31   ,3        ,D
+patch/41_16.jpg,43   ,4        ,E
+patch/41_17.jpg,30   ,3        ,D
+patch/41_18.jpg,27   ,3        ,D
+patch/41_19.jpg,31   ,3        ,D
+patch/41_20.jpg,37   ,4        ,E
+patch/41_21.jpg,33   ,3        ,D
+patch/41_22.jpg,32   ,3        ,D
+patch/41_23.jpg,28   ,3        ,D
+patch/41_24.jpg,34   ,3        ,D
+patch/41_25.jpg,12   ,2        ,C
+patch/41_26.jpg,22   ,2        ,C
+patch/41_27.jpg,14   ,2        ,C
+patch/41_28.jpg,20   ,2        ,C
+patch/41_29.jpg,18   ,2        ,C
+patch/41_30.jpg,21   ,2        ,C
+patch/41_31.jpg,17   ,2        ,C
+patch/41_32.jpg,20   ,2        ,C
+patch/41_33.jpg,7    ,1        ,B
+patch/41_34.jpg,9    ,1        ,B
+patch/41_35.jpg,13   ,2        ,C
+patch/41_36.jpg,11   ,2        ,C
+patch/41_37.jpg,13   ,2        ,C
+patch/41_38.jpg,10   ,2        ,C
+patch/41_39.jpg,18   ,2        ,C
+patch/41_40.jpg,8    ,1        ,B
+patch/42_1.jpg ,51   ,5        ,F
+patch/42_2.jpg ,57   ,5        ,F
+patch/42_3.jpg ,50   ,5        ,F
+patch/42_4.jpg ,26   ,3        ,D
+patch/42_5.jpg ,29   ,3        ,D
+patch/42_6.jpg ,28   ,3        ,D
+patch/42_7.jpg ,18   ,2        ,C
+patch/42_8.jpg ,19   ,2        ,C
+patch/42_9.jpg ,19   ,2        ,C
+patch/42_10.jpg,9    ,1        ,B
+patch/42_11.jpg,13   ,2        ,C
+patch/42_12.jpg,10   ,2        ,C
+patch/44_1.jpg ,62   ,5        ,F
+patch/44_2.jpg ,71   ,6        ,G
+patch/44_3.jpg ,66   ,6        ,G
+patch/44_4.jpg ,73   ,6        ,G
+patch/44_5.jpg ,72   ,6        ,G
+patch/44_6.jpg ,74   ,6        ,G
+patch/44_7.jpg ,71   ,6        ,G
+patch/44_8.jpg ,72   ,6        ,G
+patch/44_9.jpg ,50   ,5        ,F
+patch/44_10.jpg,63   ,6        ,G
+patch/44_11.jpg,63   ,6        ,G
+patch/44_12.jpg,72   ,6        ,G
+patch/44_13.jpg,82   ,7        ,H
+patch/44_14.jpg,86   ,7        ,H
+patch/44_15.jpg,73   ,6        ,G
+patch/44_16.jpg,66   ,6        ,G
+patch/44_17.jpg,43   ,4        ,E
+patch/44_18.jpg,54   ,5        ,F
+patch/44_19.jpg,58   ,5        ,F
+patch/44_20.jpg,72   ,6        ,G
+patch/44_21.jpg,75   ,6        ,G
+patch/44_22.jpg,71   ,6        ,G
+patch/44_23.jpg,77   ,6        ,G
+patch/44_24.jpg,68   ,6        ,G
+patch/44_25.jpg,42   ,4        ,E
+patch/44_26.jpg,40   ,4        ,E
+patch/44_27.jpg,47   ,4        ,E
+patch/44_28.jpg,48   ,4        ,E
+patch/44_29.jpg,58   ,5        ,F
+patch/44_30.jpg,61   ,5        ,F
+patch/44_31.jpg,50   ,5        ,F
+patch/44_32.jpg,54   ,5        ,F
+patch/44_33.jpg,29   ,3        ,D
+patch/44_34.jpg,33   ,3        ,D
+patch/44_35.jpg,41   ,4        ,E
+patch/44_36.jpg,38   ,4        ,E
+patch/44_37.jpg,47   ,4        ,E
+patch/44_38.jpg,60   ,5        ,F
+patch/44_39.jpg,41   ,4        ,E
+patch/44_40.jpg,35   ,3        ,D
+patch/45_1.jpg ,76   ,6        ,G
+patch/45_2.jpg ,52   ,5        ,F
+patch/45_3.jpg ,61   ,5        ,F
+patch/45_4.jpg ,69   ,6        ,G
+patch/45_5.jpg ,69   ,6        ,G
+patch/45_6.jpg ,65   ,6        ,G
+patch/45_7.jpg ,68   ,6        ,G
+patch/45_8.jpg ,60   ,5        ,F
+patch/45_9.jpg ,60   ,5        ,F
+patch/45_10.jpg,59   ,5        ,F
+patch/45_11.jpg,46   ,4        ,E
+patch/45_12.jpg,42   ,4        ,E
+patch/45_13.jpg,38   ,4        ,E
+patch/45_14.jpg,55   ,5        ,F
+patch/45_15.jpg,50   ,5        ,F
+patch/45_16.jpg,55   ,5        ,F
+patch/45_17.jpg,50   ,5        ,F
+patch/45_18.jpg,49   ,4        ,E
+patch/45_19.jpg,34   ,3        ,D
+patch/45_20.jpg,32   ,3        ,D
+patch/45_21.jpg,45   ,4        ,E
+patch/45_22.jpg,58   ,5        ,F
+patch/45_23.jpg,47   ,4        ,E
+patch/45_24.jpg,55   ,5        ,F
+patch/45_25.jpg,47   ,4        ,E
+patch/45_26.jpg,38   ,4        ,E
+patch/45_27.jpg,36   ,3        ,D
+patch/45_28.jpg,35   ,3        ,D
+patch/47_1.jpg ,124  ,8        ,I
+patch/47_2.jpg ,124  ,8        ,I
+patch/47_3.jpg ,129  ,8        ,I
+patch/47_4.jpg ,117  ,8        ,I
+patch/47_5.jpg ,110  ,8        ,I
+patch/47_6.jpg ,114  ,8        ,I
+patch/47_7.jpg ,70   ,6        ,G
+patch/47_8.jpg ,87   ,7        ,H
+patch/47_9.jpg ,92   ,7        ,H
+patch/47_10.jpg,73   ,6        ,G
+patch/47_11.jpg,92   ,7        ,H
+patch/47_12.jpg,112  ,8        ,I
+patch/47_13.jpg,79   ,6        ,G
+patch/47_14.jpg,65   ,6        ,G
+patch/47_15.jpg,72   ,6        ,G
+patch/47_16.jpg,71   ,6        ,G
+patch/47_17.jpg,80   ,7        ,H
+patch/47_18.jpg,87   ,7        ,H
+patch/47_19.jpg,45   ,4        ,E
+patch/47_20.jpg,47   ,4        ,E
+patch/47_21.jpg,46   ,4        ,E
+patch/47_22.jpg,31   ,3        ,D
+patch/47_23.jpg,44   ,4        ,E
+patch/47_24.jpg,50   ,5        ,F
+patch/48_1.jpg ,61   ,5        ,F
+patch/48_2.jpg ,47   ,4        ,E
+patch/48_3.jpg ,51   ,5        ,F
+patch/48_4.jpg ,63   ,6        ,G
+patch/48_5.jpg ,71   ,6        ,G
+patch/48_6.jpg ,75   ,6        ,G
+patch/48_7.jpg ,68   ,6        ,G
+patch/48_8.jpg ,61   ,5        ,F
+patch/48_9.jpg ,102  ,8        ,I
+patch/48_10.jpg,118  ,8        ,I
+patch/48_11.jpg,148  ,9        ,J
+patch/48_12.jpg,148  ,9        ,J
+patch/48_13.jpg,150  ,9        ,J
+patch/48_14.jpg,140  ,9        ,J
+patch/48_15.jpg,126  ,8        ,I
+patch/48_16.jpg,122  ,8        ,I
+patch/48_17.jpg,23   ,3        ,D
+patch/48_18.jpg,37   ,4        ,E
+patch/48_19.jpg,44   ,4        ,E
+patch/48_20.jpg,48   ,4        ,E
+patch/48_21.jpg,42   ,4        ,E
+patch/48_22.jpg,38   ,4        ,E
+patch/48_23.jpg,31   ,3        ,D
+patch/48_24.jpg,46   ,4        ,E
+patch/48_25.jpg,24   ,3        ,D
+patch/48_26.jpg,26   ,3        ,D
+patch/48_27.jpg,26   ,3        ,D
+patch/48_28.jpg,30   ,3        ,D
+patch/48_29.jpg,39   ,4        ,E
+patch/48_30.jpg,34   ,3        ,D
+patch/48_31.jpg,45   ,4        ,E
+patch/48_32.jpg,26   ,3        ,D
+patch/48_33.jpg,11   ,2        ,C
+patch/48_34.jpg,15   ,2        ,C
+patch/48_35.jpg,13   ,2        ,C
+patch/48_36.jpg,16   ,2        ,C
+patch/48_37.jpg,21   ,2        ,C
+patch/48_38.jpg,19   ,2        ,C
+patch/48_39.jpg,24   ,3        ,D
+patch/48_40.jpg,25   ,3        ,D
+patch/48_41.jpg,15   ,2        ,C
+patch/48_42.jpg,12   ,2        ,C
+patch/48_43.jpg,14   ,2        ,C
+patch/48_44.jpg,20   ,2        ,C
+patch/48_45.jpg,10   ,2        ,C
+patch/48_46.jpg,15   ,2        ,C
+patch/48_47.jpg,16   ,2        ,C
+patch/48_48.jpg,16   ,2        ,C

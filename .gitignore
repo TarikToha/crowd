@@ -1,0 +1,6 @@
+.cache
+.config
+.idea
+.keras
+.matplotlib
+__pycache__
